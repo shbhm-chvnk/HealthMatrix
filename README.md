@@ -42,7 +42,7 @@ HealthMatrix/
 4. Refresh the data model.
 5. Explore the interactive dashboard.
 
-## Use Cases
+## Applications
 - Healthcare Administration
 - Hospital Management
 - Patient Outcome Analysis
