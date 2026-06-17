@@ -1,7 +1,7 @@
 # HealthMatrix: A Power BI-Based Healthcare Analytics System
 
 ## Overview
-HealthMatrix is a Healthcare Analytics Dashboard developed using Power BI to provide actionable insights into patient care, hospital operations, treatment outcomes, and healthcare resource utilization. The platform transforms raw healthcare records into interactive visualizations that support data-driven decision-making.
+HealthMatrix is a Healthcare Analytics Dashboard developed using Power BI to provide actionable insights into patient care, hospital operations, treatment outcomes, and healthcare resource utilization. The platform transforms raw healthcare records into interactive visualizations that support data-driven decision-making. 
 
 ## Key Features
 - Patient Demographics Analytics
