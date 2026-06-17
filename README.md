@@ -14,9 +14,9 @@ HealthMatrix is a Healthcare Analytics Dashboard developed using Power BI to pro
 ```
 HealthMatrix/
 ├── dashboard/
-│ └── healthmatrix_dashboard.pbix
+│   └── healthmatrix_dashboard.pbix
 ├── data/
-│ └── healthcare_management_dataset.xlsx
+│   └── healthcare_management_dataset.xlsx
 └── README.md
 ```
 
